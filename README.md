@@ -1,8 +1,12 @@
 # Priority Areas for Reforestation After Typhoon Odette
-Analysis of possible reforestation sites for areas affected by Typhoon Odette using the vulnerability assessment framework.
+Private repository containing the analysis of possible reforestation sites for areas affected by Typhoon Odette using the vulnerability assessment framework.
 ![image](https://user-images.githubusercontent.com/102983286/166140594-9deae7a1-aa82-4088-9479-8c955356a958.png)
 
 This repository consists of the following files:
   1. Odette.mxd - An arcgis file with all the dataset being normalized for weight analysis.
-  2. Dataset Guide.pdf - A pdf file about the datasets being used
-  3. Priority Areas for Reforestation.ppsx/pptx - 10 slides for presentation on Data Analysis
+  2. 01 - PRESENTATION - Priority Areas for Reforestation - 10 Slide Limit.ppsx - Presentation in Powerpoint Format
+  3. 01 - PRESENTATION - Priority Areas for Reforestation - PDF Friendly.pdf - Presentation in PDF Format 
+  4. 02 - Dataset Guide.pdf - A pdf file about the datasets being used
+  5. 03 - Environmental Intelligence Analyst Exam.pdf - Exam Instructions
+  6. images - Contains exported layer images
+  7. data/READ ME.txt - Contains a link to a downloaddable zip file containing all related dataset for the analysis.
