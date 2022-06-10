@@ -1,5 +1,6 @@
-# Priority Areas for Reforestation After Typhoon Odette [![gcash donation][1]][2] [![paypal donation][3]][4]
-Private repository containing the analysis of possible reforestation sites for areas affected by Typhoon Odette using the vulnerability assessment framework.
+# Priority Areas for Reforestation [![gcash donation][1]][2] [![paypal donation][3]][4]
+
+A repository containing the analysis of possible reforestation sites for areas affected by Typhoon Odette using the vulnerability assessment framework.
 ![image](https://user-images.githubusercontent.com/102983286/166140594-9deae7a1-aa82-4088-9479-8c955356a958.png)
 
 This repository consists of the following files:
