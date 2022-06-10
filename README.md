@@ -1,7 +1,9 @@
 # Priority Areas for Reforestation [![gcash donation][1]][2] [![paypal donation][3]][4]
 
 A repository containing the analysis of possible reforestation sites for areas affected by Typhoon Odette using the vulnerability assessment framework.
-![image](https://user-images.githubusercontent.com/102983286/166140594-9deae7a1-aa82-4088-9479-8c955356a958.png)
+
+![image](https://user-images.githubusercontent.com/102983286/172996124-f474e665-fc0a-4bb5-b23f-eb72023174a5.png)
+
 
 This repository consists of the following files:
   1. Odette.mxd - An arcgis file with all the dataset being normalized for weight analysis.
